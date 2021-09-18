@@ -1,0 +1,25 @@
+.contact {
+  align-items: flex-end;
+}
+
+.contact .col {
+  text-align: center;
+  padding: 32.95px;
+}
+
+.contact a {
+  text-decoration: none;
+  color: #000;
+}
+
+.fa-envelope,
+.fa-github,
+.fa-linkedin {
+  font-size: 36px;
+}
+
+.contact p {
+  margin-top: 5px;
+  font-weight: 600;
+  font-size: 12px;
+}

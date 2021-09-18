@@ -1,13 +1,3 @@
-.row {
-  display: flex;
-  flex-direction: row;
-}
-
-.col {
-  display: flex;
-  flex-direction: column;
-}
-
 .banner {
   margin: 0 auto;
   background-image: url('../../images/background.jpg');
@@ -38,37 +28,4 @@ h1 {
 
 .jobPosition {
   font-size: 13px;
-}
-
-.contact {
-  align-items: flex-end;
-}
-
-.contact .col {
-  text-align: center;
-  padding: 32.95px;
-}
-
-.contact a {
-  text-decoration: none;
-  color: #000;
-}
-
-.fa-whatsapp {
-  font-size: 37px;
-}
-
-.fa-phone-alt {
-  font-size: 32px;
-  margin-bottom: 3px;
-}
-
-.fa-envelope {
-  font-size: 36px;
-}
-
-.contact p {
-  margin-top: 5px;
-  font-weight: 600;
-  font-size: 12px;
 }
