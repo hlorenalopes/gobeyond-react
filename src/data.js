@@ -2,7 +2,7 @@ export const data = {
   content: [
     {
       title: 'Links úteis',
-      posts: [
+      cards: [
         {
           background:
             'https://images.unsplash.com/photo-1570649236495-42fa5fe5c48b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=310&q=60',
@@ -35,10 +35,10 @@ export const data = {
     },
     {
       title: 'Últimos trabalhos',
-      posts: [
+      cards: [
         {
           background:
-            'https://images.unsplash.com/photo-1543285198-3af15c4592ce?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bm9kZWpzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+            'https://images.unsplash.com/photo-1526925539332-aa3b66e35444?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1402&q=80',
           link: 'https://github.com/hlorenalopes/desafio-final',
           title: 'Desafio VTEX IO',
         },
@@ -64,7 +64,7 @@ export const data = {
     },
     {
       title: 'Artigos Preferidos',
-      posts: [
+      cards: [
         {
           background:
             'https://images.unsplash.com/photo-1618477388954-7852f32655ec?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=310&q=70',
@@ -79,7 +79,7 @@ export const data = {
         },
         {
           background:
-            'https://images.unsplash.com/photo-1543285198-3af15c4592ce?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bm9kZWpzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+            'https://images.unsplash.com/photo-1526925539332-aa3b66e35444?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1402&q=80',
           link: 'https://dev.to/sakhnyuk/300-react-interview-questions-2ko4',
           title: 'React Interview Questions',
         },

@@ -1,3 +1,5 @@
+import React from 'react';
+import { data } from './data.js';
 import './App.css';
 import Profile from './Components/Profile/Profile';
 import Contact from './Components/Contact/Contact';
@@ -8,7 +10,7 @@ function App() {
     <main className='main'>
       <Profile />
       <Contact />
-      <Tabs />
+      <Tabs content={data.content} />
       {/* <Cards /> */}
     </main>
   );
