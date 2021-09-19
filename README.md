@@ -4,7 +4,7 @@ Projeto do curso Go Beyond, da Corebiz.
 
 ## Objetivo do projeto
 
-O objetivo do projeto era criar uma interface baseada [nesse layout](https://xd.adobe.com/view/37061811-e3ad-4675-8ef5-d94bd7f2d4d6-6255/screen/e7c84a8a-2e81-45fd-91bd-1688c5be908b/) utilizando React, componentes, props e os hooks useState e useEffect.
+O objetivo do projeto era criar uma interface baseada [nesse layout](https://xd.adobe.com/view/37061811-e3ad-4675-8ef5-d94bd7f2d4d6-6255/screen/e7c84a8a-2e81-45fd-91bd-1688c5be908b/) utilizando React.
 
 ## Link para o projeto
 
@@ -12,4 +12,4 @@ O objetivo do projeto era criar uma interface baseada [nesse layout](https://xd.
 
 ## Demo
 
-![Demo do projeto][public/demo.gif]
+![Demo do projeto][demo/demo.gif]
