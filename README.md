@@ -12,4 +12,4 @@ O objetivo do projeto era criar uma interface baseada [nesse layout](https://xd.
 
 ## Demo
 
-![Demo do projeto][demo/demo.gif]
+![Demo do projeto](demo/demo.gif)
