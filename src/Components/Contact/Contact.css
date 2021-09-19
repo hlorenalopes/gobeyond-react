@@ -37,3 +37,9 @@
   font-weight: 600;
   font-size: 12px;
 }
+
+@media screen and (max-width: 1023px) {
+  .contact p {
+    font-size: 10px;
+  }
+}
